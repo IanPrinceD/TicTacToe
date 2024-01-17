@@ -1,6 +1,4 @@
-import React from 'react';
-import { useState } from 'react';
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
 import circle from '../assets/circle.png';
 import cross from '../assets/cross.png';
 import './style.css';
